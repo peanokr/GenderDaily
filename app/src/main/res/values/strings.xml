@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">GenderDaily</string>
+    <string name="title_userinfo_list">Items</string>
+    <string name="title_userinfo_detail">UserInfo Detail</string>
 </resources>
