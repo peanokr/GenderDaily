@@ -11,4 +11,7 @@ public class MainMenu extends AppCompatActivity {
         setContentView(R.layout.activity_main_menu);
         System.out.println("cant stop wont stop");
     }
+    public void changeScreen(){
+        setContentView(R.layout.activity_userinfo_list);
+    }
 }
